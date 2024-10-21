@@ -1,0 +1,54 @@
+#ifndef __CINT__
+#include "RooGlobalFunc.h"
+#endif
+#include "RooRealVar.h"
+#include "RooDataSet.h"
+#include "RooGaussian.h"
+#include "RooConstVar.h"
+#include "RooChebychev.h"
+#include "RooAddPdf.h"
+#include "RooSimultaneous.h"
+#include "RooCategory.h"
+#include "TCanvas.h"
+#include "TAxis.h"
+#include "RooPlot.h"
+using namespace RooFit;
+void exam()
+{
+/*
+TH1F hist("hist","hist",50,0.119,0.151);
+TRandom myRandom(12345);
+for(int i=0; i<1000;i++){
+//Float_t x = myRandom.Gaus(0.1355,0.005761); 
+Float_t x = myRandom.Gaus();
+hist.Fill(x);
+}
+
+TCanvas can("can","can");
+can.cd();
+hist.Draw();
+can.Update();*/
+
+      	TCanvas* cnv1 = new TCanvas("cnv1","cnv1") ;
+
+TH1F *h = new TH1F("h","a trial histogram",50,0.119,0.151);
+TRandom *MyRandom= new TRandom(12345);
+Float_t x;
+for (Int_t i = 0; i < 100000; i++) {
+x = MyRandom->Gaus(0.1355,0.005761);
+h->Fill(x);}
+ h->Draw();
+
+cnv1->cd();
+
+   cnv1->Update();
+
+}
+
+
+
+
+
+
+
+

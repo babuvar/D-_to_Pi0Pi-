@@ -1,0 +1,26 @@
+Simultaneous fit
+
+Bin-Opt
+Data A_raw = 0.019981 +/- 0.0104776
+
+Bin-2
+Data A_raw = -0.0335523 +/- 0.0248324
+
+Full Data A_raw = 0.0118908 +/- 0.00965352 
+
+
+
+
+
+Bin-Opt-Alone
+Data A_raw =   0.0199936 +/- 0.010464 
+
+Bin-2-Alone
+Data A_raw =   -0.0351248 +/- 0.0251507 
+
+Combined
+Data A_raw =  0.0118605 +/- 0.00966118
+
+
+
+

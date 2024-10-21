@@ -1,0 +1,49 @@
+Nominal
+Data A_raw = 0.0138188 +/- 0.0195787		
+
+
+For n
+
+var+	A_raw = 0.0139497 +/- 0.0196422			0.0001309
+
+var-	A_raw = 0.0136107 +/- 0.0194884			-0.0002081
+
+
+
+For alpha
+
+var+	A_raw =   	0.0141009 +/- 0.0196811		0.0002821
+
+var-	 A_raw = 	0.0135001 +/- 0.0194861		-0.0001106
+
+
+
+
+Due to changed fitting range
+
+1.69 GeV
+A_raw = 0.0140174 +/- 0.0197082
+1.7 GeV
+A_raw = 0.0153851 +/- 0.019842
+1.71 GeV
+A_raw = 0.01686 +/- 0.0196921
+1.72 GeV
+A_raw = 0.017479 +/- 0.0197861
+
+
+
+
+Systematic error due to fit range (calculating the std_dev of mean values)
+0.0016433998  => Nominal value = 1.38 % and Syst_Err = 0.164 %
+
+
+
+
+
+
+
+
+
+
+
+

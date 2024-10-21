@@ -1,0 +1,22 @@
+//Varying N1, N2 and A_raw   (N1 and N2 are for signal)
+
+Simultaneous fit
+A_raw = 0.00523615 +/- 0.0193706  (Common A_raw for both bins)
+A_raw = 0.0147197 +/- 0.0191203  (Common A_raw & A_bkg for both bins)
+A_raw = 0.0135253 +/- 0.014308  (Common A_bkg for both bins) 
+
+
+
+
+
+Bin-Opt-Alone
+Data A_raw =   0.0046599 +/- 0.0200877
+
+Bin-2-Alone
+Data A_raw =   0.0165114 +/- 0.0696207
+
+Combined
+Data A_raw =  0.00557071 +/- 0.0193004
+
+
+

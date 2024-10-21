@@ -1,0 +1,9 @@
+#! /bin/bash
+
+
+for NAME in *root 
+do
+root -l 'fit_MD.cpp("'$NAME'")'
+#echo $NAME
+done
+

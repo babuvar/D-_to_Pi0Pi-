@@ -1,0 +1,16 @@
+P_Pi
+best f.o.m. =52.7646
+best cut(Mom_Pi0) =  1.06	 best cut(Mom_Pi+) =  1.3092
+
+
+
+P*_D (Updated)
+best f.o.m. =35.0784
+best cut = +/- 2.54
+
+
+
+M_Pi
+best f.o.m. =6.6416
+best down cut =  0.122	 best up cut =  0.148
+

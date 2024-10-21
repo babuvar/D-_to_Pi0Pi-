@@ -1,0 +1,26 @@
+Unmodified
+
+Result
+A_raw = -0.00729611 +/- 0.00403731
+
+Chi Sq
+ signalchi-1 = 1.98202
+ signalchi-2 = 2.5347
+ signalchi-3 = 2.35189
+ signalchi-4 = 3.77294
+
+
+
+
+Modified
+A_raw = -0.00293484 +/- 0.00443836
+
+Chi Sq
+ signalchi-1 = 1.09436
+ signalchi-2 = 1.4342
+ signalchi-3 = 0.55312
+ signalchi-4 = 0.737667
+
+
+
+

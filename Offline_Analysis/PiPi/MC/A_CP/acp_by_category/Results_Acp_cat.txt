@@ -1,0 +1,13 @@
+A_raw
+
+Cat_5			A_raw = 0.0220295 +/- 0.0133961
+
+Not_Cat_5		A_raw = 0.0170367 +/- 0.0230848
+
+All_Cats		A_raw = 0.0210928 +/- 0.0116103
+
+
+
+Cat_5 and Not_Cat_5 combined
+
+

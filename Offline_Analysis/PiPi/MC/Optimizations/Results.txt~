@@ -1,0 +1,27 @@
+EGam (1D) - Category-5
+best cut =  > 0.046 GeV
+
+EGam (2D) - Category-2
+best cut(Gam1) =  > 0.068 GeV	 best cut(Gam2) =  > 0.036 GeV
+
+EGam (2D) - Category-6
+best cut(Gam1) =  > 0.03 GeV	 best cut(Gam2) =  0.044 > GeV
+
+
+
+Mom-PiPi (2D)
+best cut(Mom_Pi0) =  > 1.06 GeV	 best cut(Mom_Pi+) = > 0.84 GeV
+
+DeltaM
+best down cut =  0.1391 GeV	 best up cut =  0.142 GeV
+
+
+P*(D*)
+1st cut = 2.95 GeV (Optimal)
+2nd cut = 2.5  GeV (Plateau)
+3rd cut = 2.1  GeV (Plateau)
+
+
+Mass of slow pi0
+best down cut =  0.125 GeV	 best up cut =  0.143 GeV
+

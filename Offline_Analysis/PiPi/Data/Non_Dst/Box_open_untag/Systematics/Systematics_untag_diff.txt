@@ -1,0 +1,55 @@
+Result
+Araw = 0.03768  	
+
+
+Signal - CB
+
+sigma_fudge
+Araw = 0.03786  	0.018
+Araw = 0.03771  	0.003
+
+
+alpha
+Araw = 0.03736  	−0.032
+Araw = 0.03804  	0.036
+
+
+n
+Araw = 0.03824  	0.056
+Araw = 0.03686  	−0.082
+	
+f_sig
+Araw = 0.03749  	−0.019
+Araw = 0.03799  	0.031
+
+CB to Gauss width ratio
+Araw = 0.03784  	0.016
+Araw = 0.03827 		0.059
+
+CB to Gauss mean diff
+Araw = 0.0372  		−0.048
+Araw = 0.03744  	−0.024
+
+
+-----------------------------------------------------------------------
+
+
+Background - CB
+
+alpha_bkg
+Araw = 0.03783  	0.015
+Araw = 0.03765  	−0.003
+
+n_bkg
+Araw = 0.03737  	−0.031
+Araw = 0.03862  	0.094
+
+
+
+
+
+
+
+
+
+

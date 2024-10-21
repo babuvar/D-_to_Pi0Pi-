@@ -1,0 +1,35 @@
+Simultaneous fit
+Data A_raw =   0.0150404 +/- 0.0191642
+
+
+
+
+Bin-Opt-Alone
+Data A_raw =  0.00470143 +/- 0.0201237
+
+Bin-2-Alone
+Data A_raw =   0.016915 +/- 0.0700664
+
+Combined
+Data A_raw =  0.00563214 +/- 0.0193418
+
+
+
+Both Bins together
+A_raw =   0.00449269 +/- 0.0220151
+
+
+Bin-2-Alone (sigma_fudge fixed from optimal bin)
+Data A_raw =  0.0134521 +/- 0.0785472
+
+
+
+A_raw = 0.00482296 +/- 0.0200453
+A_raw2 = 0.0142098 +/- 0.0774977
+Combined A_raw = 0.00541159 +/- 0.0194066
+
+
+
+Altermate Simultaneous fit-2
+A_raw = 0.0064937 +/- 0.0220843
+

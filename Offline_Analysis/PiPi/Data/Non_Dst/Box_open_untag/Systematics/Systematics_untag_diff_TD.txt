@@ -1,0 +1,20 @@
+Result
+Araw = 0.03768  	
+
+
+Signal - CB
+ 
+ 
+
+
+CB to Gauss mean diff
+Araw = 0.0372  		−0.048
+Araw = 0.03744  	−0.024
+
+
+ 
+
+
+
+
+

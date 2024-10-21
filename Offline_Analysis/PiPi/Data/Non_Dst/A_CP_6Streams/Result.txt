@@ -1,0 +1,49 @@
+MC - 0
+N_t(estimated)) = 89456 +/- 1711
+N_t(truth) = 93020 +/- 304
+A_raw (estimated) = -0.009704 +/- 0.01712
+A_raw(truth) = -0.002927 +/- 0.003279
+
+
+MC - 1
+N_t(estimated)) = 92498 +/- 1720
+N_t(truth) = 93177 +/- 305
+A_raw (estimated) = 0.003414 +/- 0.01634
+A_raw(truth) = 0.004688 +/- 0.003276
+
+
+
+
+MC - 2
+N_t(estimated)) = 92742 +/- 1716
+N_t(truth) = 92676 +/- 304
+A_raw (estimated) = -0.02609 +/- 0.01631
+A_raw(truth) = 0.006654 +/- 0.003285
+
+
+
+MC - 3
+N_t(estimated)) = 92828 +/- 1727
+N_t(truth) = 93515 +/- 305
+A_raw (estimated) = 0.007945 +/- 0.01664
+A_raw(truth) = -0.001647 +/- 0.00327
+
+
+MC - 4
+N_t(estimated)) = 91816 +/- 1724
+N_t(truth) = 92939 +/- 304
+A_raw (estimated) = -0.006443 +/- 0.01666
+A_raw(truth) = 0.004195 +/- 0.00328
+
+
+MC - 5
+ N_t(estimated)) = 91414 +/- 1757
+N_t(truth) = 93220 +/- 305
+A_raw (estimated) = -0.03024 +/- 0.01654
+A_raw(truth) = -0.002838 +/- 0.003275
+
+
+
+
+
+
